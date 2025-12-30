@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="assets/programmer-night.jpg" alt="Coding Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Tanvir Hossain Reza</h1>
-<h3 align="center">MERN Stack Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
