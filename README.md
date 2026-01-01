@@ -15,6 +15,10 @@ Currently improving my skills to build production-ready full stack systems.
 
 ---
 
+🌐 Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/in/tanvir-reza-88" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/TanvirReza1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.facebook.com/Tanvirhossain.reza/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.instagram.com/tanvir_reza04/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://x.com/reza_tanvi18747" target="_blank"> <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:tanvirhossainreza83@gmail.com
+"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
 ### 🚀 Current Activities
 - 🌱 Exploring **Next.js**
 - 💻 Working on full stack MERN projects
