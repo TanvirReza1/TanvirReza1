@@ -8,7 +8,7 @@
 ---
 
 ### 📍 Location & Contact Information
-- 🌍 **Location:** Bangladesh  
+- 🌍 **Location:** Dhaka, Bangladesh  
 - 📧 **Email:** tanvirhossainreza83@gmail.com  
 - 📞 **Contact Number:** +880 1797 421 860  
 
