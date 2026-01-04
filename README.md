@@ -66,7 +66,7 @@ I am highly motivated to learn modern web technologies and best practices.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirReza1&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanvirReza1&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
@@ -74,5 +74,5 @@ I am highly motivated to learn modern web technologies and best practices.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirReza1&layout=compact&theme=dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirReza1&layout=compact&theme=dark" />
 </p>
